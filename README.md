@@ -197,7 +197,7 @@ Key outcomes included:
 
 ## 🔒 Copyright & Usage Policy
 
-### © 2026 Yesmin Jalaldeen. All Rights Reserved.
+### © 2025 Yesmin Jalaldeen. All Rights Reserved.
 
 This repository showcases an individual academic project developed by the author.
 
@@ -231,6 +231,6 @@ Anyone wishing to reuse or redistribute protected original materials must obtain
 
 *“Building Resilient Networks Through Structured Design and Practical Simulation.”*
 
-**© 2026 Yesmin Jalaldeen — All Rights Reserved.**
+**© 2025 Yesmin Jalaldeen — All Rights Reserved.**
 
 </div>
