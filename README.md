@@ -64,7 +64,7 @@ This hierarchical structure supports modular network management, scalability, fa
 
 The network blueprint represents the proposed enterprise infrastructure, including network devices, departmental segments, interconnections, and the overall network architecture.
 
-![Enterprise Network Blueprint](Network%20Design/INTECH.png)
+![Enterprise Network Blueprint](Network%20Designs/Network%20Design_INTECH.png)
 
 ---
 
